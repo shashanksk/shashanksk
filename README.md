@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## :wave: About Me
 
-👦 I'm a third year student at **National Institute of Technology Karnataka**.
+👦 I'm a 2024 graduate from **National Institute of Technology Karnataka**.
 
 🌱 I’m currently learning Networking and Machine learning.
 
